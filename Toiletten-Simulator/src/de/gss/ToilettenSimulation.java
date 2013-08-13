@@ -10,8 +10,8 @@ import de.gss.toilette.*;
  * Hauptklasse zum Starten der Toiletten-Simulation.
  * In dieser Klasse wird die Implemntierung der virtuellen Toilette festgelegt und 
  * es werden die Threads der virtuellen Personen erzeugt, initialisiert und gestartet.
- * ghgfgfhsdfsdfsdfsxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
- * reregreg333322sdrtgggtrtgtrsss
+ * ghgfgfhsdfsdfsdfsxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxsdddss
+ * reregreg333322sdrtgggtrtgtrsssss
  * @author bade
  */
 public class ToilettenSimulation
