@@ -7,7 +7,7 @@ import de.gss.aufgabe.g01KrachtSchlieperSchmittScheike.ToiletteTSL;
 import de.gss.toilette.*;
 
 /**
- * test test test test test
+ * nicht mehr test
  * Hauptklasse zum Starten der Toiletten-Simulation.
  * In dieser Klasse wird die Implemntierung der virtuellen Toilette festgelegt und 
  * es werden die Threads der virtuellen Personen erzeugt, initialisiert und gestartet.
