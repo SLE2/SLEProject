@@ -14,7 +14,7 @@ import de.gss.toilette.*;
  * ghgfgfhsdfsdfsdfsxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxsdddss
  * reregreg333322sdrtgggtrtgtrsssssfggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
  * zzzzzzzzzzzzzzzzzzxdjjj
- * @author badelölölölölö
+ * @author badelölölölölöhöhöhö
  */
 public class ToilettenSimulation
 {
