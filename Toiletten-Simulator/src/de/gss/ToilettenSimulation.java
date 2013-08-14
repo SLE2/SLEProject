@@ -13,7 +13,7 @@ import de.gss.toilette.*;
  * es werden die Threads der virtuellen Personen erzeugt, initialisiert und gestartet.
  * ghgfgfhsdfsdfsdfsxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxsdddss
  * reregreg333322sdrtgggtrtgtrsssssfggggyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
- * zzzzzzzzzzzzzzzzzzxdjjjkoko
+ * zzzzzzzzzzzzzzzzzzxdjjjkokoddsdfsdf
  * @author badelölölölölöhöhöhö
  */
 public class ToilettenSimulation
